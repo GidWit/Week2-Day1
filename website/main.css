@@ -13,8 +13,11 @@ html, body, h1, h2, h3, p, ol, ul, li, a {
 }
 .topHeader {
     text-align: center;
+    
+    background-color: #000000;
 }
 .topHeader li {
     display: inline-block;
     text-align: center;
+    color: white;
 }
