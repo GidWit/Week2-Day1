@@ -16,13 +16,13 @@ html, body, h1, h2, h3, p, ol, ul, li, a {
     background-color: #000000;
 }
 .topHeader a {
-    color: white;
+    color: goldenrod;
     text-decoration: none;
     margin-left: 15px;
     margin-right: 15px;
 }
 .topHeader a:visited {
-    color: goldenrod;
+    color: yellowgreen;
 }
 .topHeader a:hover {
     color: gray;
