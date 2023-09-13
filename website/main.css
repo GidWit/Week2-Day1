@@ -13,3 +13,6 @@ h1 {
     padding-top: 60px;
     font-size: 80px;
 }
+.topHeader text {
+    text-align: center;
+}
