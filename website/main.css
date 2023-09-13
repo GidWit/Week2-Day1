@@ -18,6 +18,8 @@ html, body, h1, h2, h3, p, ol, ul, li, a {
 .topHeader a {
     color: white;
     text-decoration: none;
+    margin-left: 15px;
+    margin-right: 15px;
 }
 .topHeader li {
     display: inline-block;
