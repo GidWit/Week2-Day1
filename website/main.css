@@ -24,6 +24,9 @@ html, body, h1, h2, h3, p, ol, ul, li, a {
 .topHeader a:visited {
     color: goldenrod;
 }
+.topHeader a:hover {
+    color: gray;
+}
 .topHeader li {
     display: inline-block;
     text-align: center;
