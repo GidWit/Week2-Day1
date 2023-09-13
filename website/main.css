@@ -3,6 +3,8 @@ html, body, h1, h2, h3, p, ol, ul, li, a {
     border: 0;
     margin: 0;
 }
-.topHeader {
-    font-family:'Times New Roman', Times, serif
+h1 {
+    color: #000000;
+    margin: 0 0 15px 0;
+    text-align: center;
 }
