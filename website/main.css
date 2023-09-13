@@ -21,6 +21,9 @@ html, body, h1, h2, h3, p, ol, ul, li, a {
     margin-left: 15px;
     margin-right: 15px;
 }
+.topHeader a:visited {
+    color: goldenrod;
+}
 .topHeader li {
     display: inline-block;
     text-align: center;
