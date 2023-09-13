@@ -15,6 +15,9 @@ html, body, h1, h2, h3, p, ol, ul, li, a {
     text-align: center;
     background-color: #000000;
 }
+.main-conent {
+    background-image: url("galaxyBack.jpg")
+}
 .topHeader a {
     color: goldenrod;
     text-decoration: none;
