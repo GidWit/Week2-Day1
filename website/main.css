@@ -17,6 +17,7 @@ html, body, h1, h2, h3, p, ol, ul, li, a {
 }
 .topHeader a {
     color: white;
+    text-decoration: none;
 }
 .topHeader li {
     display: inline-block;
