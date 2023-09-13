@@ -4,7 +4,5 @@ html, body, h1, h2, h3, p, ol, ul, li, a {
     margin: 0;
 }
 .topHeader {
-    color: blue;
-    margin-left: auto;
-    margin-right: auto;
+    font-family:'Times New Roman', Times, serif
 }
