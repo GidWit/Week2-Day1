@@ -102,3 +102,10 @@ body {
     margin-top: 10px;
     margin-bottom: 20px;
 }
+.center-text3 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    transform: translate(-70%, -50%)
+}
