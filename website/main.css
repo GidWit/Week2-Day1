@@ -48,9 +48,9 @@ body {
 .center-text {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: absolute;
-    top: 50%;
+    top: 70%;
     left: 50%;
-    transform: translate(-50%, -50%)
+    transform: translate(-70%, -50%)
 }
 .topHeader a {
     color: goldenrod;
