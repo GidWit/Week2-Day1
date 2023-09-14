@@ -26,8 +26,7 @@ body {
     background-color: #000000;
 }
 .main-content p {
-    background-position: center center;
-    background-image: url("galaxyBack.jpg")
+    background: #242424 url(images/galaxyBack.jpg) center center no-repeat;
 }
 .topHeader a {
     color: goldenrod;
