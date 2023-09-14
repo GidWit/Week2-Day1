@@ -28,7 +28,9 @@ body {
     background-color: #000000;
 }
 .main-content {
-
+    color: aliceblue;
+    padding-top: 50px;
+    text-align: center;
 }
 .main-content p {
     background-color:#000000;
