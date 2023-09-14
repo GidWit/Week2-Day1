@@ -75,7 +75,6 @@ body {
     display: inline-block;
     text-align: center;
     color: white;
-    
 }
 .main-content2 {
     color: aliceblue;
@@ -87,6 +86,19 @@ body {
     height: 500px;
 }
 .main-content2 p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.main-content3 {
+    color: aliceblue;
+    padding-top: 50px;
+    text-align: center;
+}
+.main-content3 img {
+    width: 800px;
+    height: 500px; 
+}
+.main-content3 p {
     margin-top: 10px;
     margin-bottom: 20px;
 }
