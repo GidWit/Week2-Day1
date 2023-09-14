@@ -41,6 +41,10 @@ body {
     width: 800px;
     height: 500px;
 }
+.main-content p {
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
 .center-text {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: absolute;
