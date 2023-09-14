@@ -109,3 +109,15 @@ body {
     left: 55%;
     transform: translate(-70%, -50%)
 }
+.center-text3 a {
+    color: goldenrod;
+    text-decoration: none;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.center-text3 a:visited {
+    color: yellowgreen;
+}
+.center-text3 a:hover {
+    color: gray;
+}
