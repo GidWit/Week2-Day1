@@ -11,7 +11,7 @@ body {
 .blogBlock h1 {
     color: white;
     margin: 0 0 15px 0;
-    padding-top: 60px;
+    padding-top: 40px;
     padding-bottom: 10px;
     font-size: 100px;
     text-align: center;
@@ -28,7 +28,10 @@ body {
     background-color: #000000;
 }
 .main-content {
-    size: 20px 20px 20px 20px;
+
+}
+.main-content p {
+
 }
 .topHeader a {
     color: goldenrod;
