@@ -77,3 +77,12 @@ body {
     color: white;
     
 }
+.main-content2 {
+    color: aliceblue;
+    padding-top: 50px;
+    text-align: center;
+}
+.main-content2 img {
+    width: 800px;
+    height: 500px;
+}
