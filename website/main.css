@@ -52,6 +52,13 @@ body {
     left: 55%;
     transform: translate(-70%, -50%)
 }
+.center-text2 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: absolute;
+    top: 60%;
+    left: 55%;
+    transform: translate(-70%, -50%)
+}
 .topHeader a {
     color: goldenrod;
     text-decoration: none;
