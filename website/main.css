@@ -6,7 +6,6 @@ html, body, h1, h2, h3, p, ol, ul, li, a {
 }
 body {
     background-color: white;
-    background-image: url("galaxyBack.jpg")
 }
 .blogBlock {
     color: white;
@@ -19,7 +18,7 @@ body {
     text-align: center;
     background-color: #000000;
 }
-.main-conent {
+.main-content {
     background-image: url("galaxyBack.jpg")
 }
 .topHeader a {
