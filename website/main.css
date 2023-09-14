@@ -33,10 +33,12 @@ body {
     text-align: center;
 }
 .main-content p {
-    
     text-align: center center; 
     margin-left: auto;
     margin-right: auto;
+}
+.main-content img {
+    image-resolution: 10 10 10 10;
 }
 .topHeader a {
     color: goldenrod;
