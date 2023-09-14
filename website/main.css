@@ -6,7 +6,7 @@ html, body, h1, h2, h3, p, ol, ul, li, a {
 }
 body {
     background-color: white;
-    background: url(images/galaxyBack.jpg)
+    background: url(galaxyBack.jpg)
 }
 .blogBlock h1 {
     color: white;
