@@ -48,7 +48,7 @@ body {
 .center-text {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     position: absolute;
-    top: 70%;
+    top: 60%;
     left: 50%;
     transform: translate(-70%, -50%)
 }
