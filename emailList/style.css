@@ -21,13 +21,14 @@
  }
 
  #firstName {
-    margin: 30px auto;
+    margin: 20px auto;
  }
  #lastName {
     margin: 15px auto;
  }
 
  input[type="text"] {
+    margin
    height: 25px;
  }
 
