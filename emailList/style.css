@@ -1,6 +1,9 @@
 .header.myFont {
     background-color: red;
 }
+.parent {
+    display: inline-blox;
+}
 .main-content {
     background-color: rgb(253, 0, 0);
 }
