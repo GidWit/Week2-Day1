@@ -1,6 +1,7 @@
 .main-content {
     background-color: white;
     border: 1px solid black;
+    border-radius: 20px;
     margin: 150px auto;
     width: 400px;
     height: 400px;
