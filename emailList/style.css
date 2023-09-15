@@ -8,7 +8,7 @@
 }
 .parent {
     text-align: center;
-    margin: 20px 0px;
+    margin: 20px 10px;
     font-size: 30px;
   }
  .myFont {
@@ -17,4 +17,5 @@
  .myFont2 {
     font-family: "Averia Gruesa Libre", sans-serif;
  }
+
 
