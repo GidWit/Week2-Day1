@@ -27,6 +27,9 @@
     margin: 15px auto;
  }
 
+ input[type="text"] {
+   height: 15px 0px;
+ }
 
 
 
