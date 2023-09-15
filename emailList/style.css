@@ -9,29 +9,12 @@
     text-align: center;
     margin: 20px 0px;
   }
+.parent .header {
+    font-size: 50px;
+  }
  .myFont {
     font-family: "Plaster", sans-serif;
  } 
  .myFont2 {
     font-family: "Averia Gruesa Libre", sans-serif;
  }
-
-  .redBox, .yellowBox, .greenBox {
-    display: inline-block;
-  }
-  
-  .redBox {
-    background-color: red;
-    padding: 20px;
-  }
-  
-  .yellowBox {
-    background-color: yellow;
-    padding: 10px 30px;
-    border: 1px solid black;
-  }
-  
-  .greenBox {
-    background-color: green;
-    padding: 20px 10px 5px 20px;
-  }
