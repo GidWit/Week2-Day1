@@ -2,6 +2,7 @@
     background-color: red;
 }
 .parent {
+    text-align: center;
     display: inline-blox;
 }
 .main-content {
