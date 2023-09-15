@@ -20,7 +20,7 @@
     font-family: "Averia Gruesa Libre", sans-serif;
  }
 
- #firstName {
+ #firstName, #lastName {
     margin: 20px auto;
  }
 
