@@ -1,9 +1,10 @@
 .main-content {
     display: inline-block;
     background-color: yellow;
+    text-align: center;
+    border: 1px solid black;
     width: 50%;
     height: 50%;
-    border: 1px solid black;
 }
 .parent {
     text-align: center;
