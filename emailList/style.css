@@ -8,11 +8,12 @@
 }
 .parent {
     text-align: center;
-    margin: 20px 0px;
-    font-size: 20px;
+    margin: 20px 5px;
+    font-size: 30px;
   }
  .myFont {
     font-family: "Plaster", sans-serif;
+    font-size: 3
  } 
  .myFont2 {
     font-family: "Averia Gruesa Libre", sans-serif;
