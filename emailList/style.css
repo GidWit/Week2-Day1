@@ -9,11 +9,11 @@
 .parent {
     text-align: center;
     margin: 20px 5px;
-    font-size: 30px;
+    font-size: 20px;
   }
  .myFont {
     font-family: "Plaster", sans-serif;
-    font-size: 3
+    font-size: 30px;
  } 
  .myFont2 {
     font-family: "Averia Gruesa Libre", sans-serif;
